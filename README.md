@@ -1,4 +1,4 @@
-# mouseMove-parallxEffect
+# on mouseMove parallxEffect
 
 ![image](https://user-images.githubusercontent.com/53119070/173284814-04ea7ede-15c8-4ee9-bfc1-e05618ce25a7.png)
 
